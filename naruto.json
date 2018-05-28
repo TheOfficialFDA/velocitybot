@@ -1,0 +1,10 @@
+{  
+  "message":"Naruto is the best",
+  "logo":"https://cdn.discordapp.com/avatars/392991471420309504/a_84499ed528d4b49d084ad6a27e95f68a.gif",
+  "color":"c509f9",
+  "footer":{  
+    "enabled":true,
+    "text":"<3",
+    "icon":"https://cdn.discordapp.com/avatars/392991471420309504/a_84499ed528d4b49d084ad6a27e95f68a.gif"
+  }
+}
